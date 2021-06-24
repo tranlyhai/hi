@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>THÚ BÔNG &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/thu-bong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/hi</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 15 Jun 2021 04:19:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>MÈO NGỒI LÔNG MƯỢT</title>
+		<link>https://tranlyhai.github.io/hi/sản%20phẩm/meo-ngoi-long-muot/</link>
+					<comments>https://tranlyhai.github.io/hi/sản%20phẩm/meo-ngoi-long-muot/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 04:19:47 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/hi/?post_type=product&#038;p=146</guid>
+
+					<description><![CDATA[Lớp lông bên ngoài mềm mịn, không xù, không rụng, tuyệt đối an toàn, thích hợp cho bé cầm tay chơi hoặc để trang trí.]]></description>
+										<content:encoded><![CDATA[<p>Lớp lông bên ngoài mềm mịn, không xù, không rụng, tuyệt đối an toàn, thích hợp cho bé cầm tay chơi hoặc để trang trí.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/hi/sản%20phẩm/meo-ngoi-long-muot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
